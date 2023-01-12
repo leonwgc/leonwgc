@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leonwgc
-- 👀 I’m interested in coding , music 
-- 📫 I live in shanghai  
+- 👋 Hi, I’m leon 
+- 👀 I love coding, music, movie 
+- 📫 I live in shanghai minhang
 
 <!---
 leonwgc/leonwgc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
