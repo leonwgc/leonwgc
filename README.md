@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Leon
-- I come from Hubei province which lies in the middle of China and now I have settled in ShangHai (Minhang area).
-- I am a frontend developer, Previously I was working at [yiyuan tech](https://www.yiyuangroup.com/) as a frontend tech leader
-- I am obsessed with coding. I have more than 14 years' coding experience. 
-- I ✨love✨ listening to music, watching movies. I also ✨love✨ outdoor trips like hiking and camping
-- 📫 Welcome to my Github
+- I come from Hubei province which lies in the middle of China and now I have settled in the city of ShangHai
+- I am a frontend developer and I ✨love✨ web development 
+- I ✨love✨ listening to music, watching movies and reading. I also ✨love✨ outdoor trips like hiking and camping in my spare time
+- 📫 welcome to my github
