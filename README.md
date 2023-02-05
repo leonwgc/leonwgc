@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Leon
 - I come from Hubei province which lies in the middle of China and now I have settled in the city of ShangHai
-- I am a frontend developer and I ✨love✨ web development 
+- I am a frontend developer and I'm very obsessed with web development 
 - I ✨love✨ listening to music, watching movies and reading. I also :heart: outdoor trips like hiking and camping in my spare time
 - :star: welcome to my github
