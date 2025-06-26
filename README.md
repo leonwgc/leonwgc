@@ -1,2 +1,2 @@
 - 👋 Hi, I'm Leon
-- :star: welcome to my github and hope it can help.
+- :star: Welcome to my space and hope it helps!
